@@ -1,4 +1,3 @@
-// Base class — Part 1: Class Architecture
 public class IndustrialAsset {
 
     private String name;

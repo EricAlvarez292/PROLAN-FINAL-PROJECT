@@ -1,4 +1,3 @@
-// Child class — inherits from IndustrialAsset — Part 1 & 2
 public class ElectronicSensor extends IndustrialAsset {
 
     private double voltage;
